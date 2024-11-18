@@ -70,4 +70,4 @@ https://guns.lol/xyz : Available
 
 ## Contributions
 
-Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request. 😊
+Contributions are welcome! If you have suggestions or improvements, feel free to submit on [discord](https://discord.com/users/933785709762973756). 😊
